@@ -64,14 +64,14 @@ const userData = {
       title: "Explorer",
       company: "Blockchain & Cryptocurrency",
       year: "2022",
-      companyLink: "https://blockchain.com",
+      companyLink: "https://en.m.wikipedia.org/wiki/Blockchain",
       desc: "I like exploring the world of crypto and blockchain, it's very risky that's why I like it",
     }, 
     {
       title: "Studies",
       company: "STMIK, Pekalongan",
       year: "2021",
-      companyLink: "/",
+      companyLink: "https://www.stmik-wp.ac.id/",
       desc: "College of Information Science Management.",
     },
     {
