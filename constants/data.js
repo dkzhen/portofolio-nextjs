@@ -2,10 +2,10 @@ const userData = {
   githubUsername: "dkzhen",
   name: "DKZhen",
   designation: "Student",
-  avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  avatarUrl: "/",
+  email: "dani314123@gmail.com",
+  phone: "+62 8123456",
+  address: "Indonesia",
   projects: [
     {
       title: "Tailwind Master Kit",
