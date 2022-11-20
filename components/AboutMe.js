@@ -52,11 +52,10 @@ export default function AboutMe() {
                 I'm looking for a job currently, If you see me as a good fit,
                 check my{" "}
                 <a
-                  href={userData.resumeUrl}
-                  target="__blank"
+                  href="/experience"
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
-                  CV
+                  Experience
                 </a>{" "}
                 and I'd love to work for you.
               </p>
@@ -102,18 +101,7 @@ export default function AboutMe() {
                   </div>
                 </a>
               </div>
-              <div className="flex flex-row justify-start items-center">
-                <a
-                  href={userData.socialLinks.linkedin}
-                  className="flex flex-row items-center space-x-4 group"
-                >
-                  <div className="my-4">&rarr;</div>
-                  <div className="text-lg text-gray-500 font-mono relative overflow-hidden dark:text-gray-300">
-                    <div className="absolute h-0.5 w-full bg-gray-400 bottom-0 transform -translate-x-24 group-hover:translate-x-0 transition duration-300"></div>
-                    LinkedIn
-                  </div>
-                </a>
-              </div>
+             
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.instagram}
