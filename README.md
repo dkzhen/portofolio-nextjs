@@ -33,4 +33,4 @@ This template is completely open source and free to use. Use it for client proje
 
 # Support
 
-<a href="https://twitter.com/dk_zhen19" target="_blank"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Follow Me on Twitter" height="41" width="174"></a>
+<a href="https://twitter.com/dk_zhen19" target="_blank"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Follow Me on Twitter" height="200" width="200"></a>
