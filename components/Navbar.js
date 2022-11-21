@@ -30,15 +30,15 @@ export default function Navbar() {
 
         <div className="space-x-8 hidden md:block">
           <Link
-            href="/"
+            href="/about"
             className={`text-base  ${
-              router.asPath === "/"
+              router.asPath === "/about"
                 ? "text-gray-800 font-bold dark:text-gray-400"
                 : "text-gray-600 dark:text-gray-300 font-normal "
             }`}
           >
             About{" "}
-            {router.asPath === "/" && (
+            {router.asPath === "/about" && (
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -105,15 +105,15 @@ export default function Navbar() {
             )}
           </Link>
           <Link
-            href="/"
+            href="/contact"
             className={`text-base  ${
-              router.asPath === "/"
+              router.asPath === "/contact"
                 ? "text-gray-800 font-bold dark:text-gray-400"
                 : "text-gray-600 dark:text-gray-300 font-normal "
             }`}
           >
             Contact {" "}
-            {router.asPath === "/" && (
+            {router.asPath === "/contact" && (
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"

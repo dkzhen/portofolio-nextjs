@@ -3,7 +3,7 @@ const userData = {
   name: "DKZhen",
   designation: "Student",
   avatarUrl: "/",
-  email: "dani314123@gmail.com",
+  email: "dkzhen.eth@mail3.me",
   phone: "+62 8123456",
   address: "Indonesia",
   projects: [
@@ -12,49 +12,14 @@ const userData = {
       link: "https://tailwindmasterkit.com",
       imgUrl: "/tmk.jpg",
     },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
-    },
-    {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "I am a software developer who likes to create products for self-knowledge as well as for any production.",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `I've been learning to develop apps for a long time, because I was originally interested in building a wide variety of apps. I don't know how to make it, finally I went to high school in computer science to add to my insight about the world of informatics.`,
+      `After I entered college there I started to be able to learn programming languages ​​independently, started learning HTML to CSS but after I tried the first framework I came across, namely TailwindCSS, I started to like the ecosystem which can give me the changes I experienced. From there I got to know a lot of other frameworks such as Codeigniter4, Laravel to native application frameworks like flutter`,
+      `Now I continue to develop my knowledge in the world of programming. I started making projects in codeIgniter and also laravel which use MySQL databases. Trying to create a portfolio project using TailwindCSS , NextJs , and also ReactJs. I also learned several native languages ​​for mobile such as flutter and Ionic. I am happy with the changes I am experiencing now and I will continue to develop them in the future.`,
     ],
     currentProject: "Portofolio - Nextjs",
     currentProjectUrl: "www.zhenn.my.id",
