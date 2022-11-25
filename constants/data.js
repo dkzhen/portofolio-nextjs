@@ -3,7 +3,7 @@ const userData = {
   name: "DKZhen",
   designation: "Student",
   avatarUrl: "/",
-  email: "dkzhen.eth@mail3.me",
+  email: "danistmikwp@zhen.biz.id",
   phone: "+62 8123456",
   address: "Indonesia",
   projects: [
@@ -34,7 +34,7 @@ const userData = {
     }, 
     {
       title: "Studies",
-      company: "STMIK, Pekalongan",
+      company: "STMIK Widya Pratama, Pekalongan",
       year: "2021",
       companyLink: "https://www.stmik-wp.ac.id/",
       desc: "College of Information Science Management.",

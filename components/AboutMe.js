@@ -15,13 +15,8 @@ export default function AboutMe() {
             className="leading-loose text-2xl md:text-4xl font-semibold  mx-4"
             style={{ lineHeight: "3rem" }}
           >
-            {userData.about.title}. Currently working on{" "}
-            <a
-              className="bg-red-500 rounded-md px-2 py-1 text-white"
-              href="/"
-            >
-              {userData.about.currentProject} ✈️
-            </a>
+            {userData.about.title}. Currently studies on collage
+            
           </p>
         </div>
       </div>
@@ -136,11 +131,11 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+                src="https://avatars.githubusercontent.com/tailwindcss"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+                src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
@@ -152,11 +147,11 @@ export default function AboutMe() {
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
+                src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
+                src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
                 className="h-20 w-20 mx-4 my-4"
               />
               <img
