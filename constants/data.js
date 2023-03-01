@@ -8,9 +8,24 @@ const userData = {
   address: "Indonesia",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "DKZhen - Mail",
+      link: "https://zhenmail.my.id",
+      imgUrl: "/dkzhenmail.jpg",
+    },
+    {
+      title: "Noteist",
+      link: "https://github.com/dkzhen/noteist/releases/tag/V1.0",
+      imgUrl: "/noteist.jpg",
+    },
+    {
+      title: "ZkApp - Mina Protocol",
+      link: "https://dkzhen.github.io/04-zkapp-browser-ui/",
+      imgUrl: "/zkapp.jpg",
+    },
+    {
+      title: "API Dummy Products",
+      link: "https://www.zhensoft.my.id/",
+      imgUrl: "/store.jpg",
     },
   ],
   about: {
@@ -31,7 +46,7 @@ const userData = {
       year: "2022",
       companyLink: "https://en.m.wikipedia.org/wiki/Blockchain",
       desc: "I like exploring the world of crypto and blockchain, it's very risky that's why I like it",
-    }, 
+    },
     {
       title: "Studies",
       company: "STMIK Widya Pratama, Pekalongan",
@@ -46,10 +61,8 @@ const userData = {
       companyLink: "https://oropocket.com/",
       desc: "Invest in Digital Assets, Pay with Gold & Silver,Start creating wealth with India’s leader in Online Gold & Silver.",
     },
-    
   ],
-  resumeUrl:
-    "https://google.com",
+  resumeUrl: "https://google.com",
   socialLinks: {
     instagram: "https://instagram.com/dkzhen.eth",
     twitter: "https://twitter.com/dk_zhen19",

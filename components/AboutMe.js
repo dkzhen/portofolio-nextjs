@@ -16,7 +16,6 @@ export default function AboutMe() {
             style={{ lineHeight: "3rem" }}
           >
             {userData.about.title}. Currently studies on collage
-            
           </p>
         </div>
       </div>
@@ -96,7 +95,7 @@ export default function AboutMe() {
                   </div>
                 </a>
               </div>
-             
+
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.instagram}
